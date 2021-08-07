@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: github
+  repo: jakebills1/gatsby-netlify-test
+  branch: master
 
 media_folder: static/assets
 public_folder: /assets
